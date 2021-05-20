@@ -1,0 +1,26 @@
+.Pokedex {
+  text-align: center;
+}
+.Poke-cards {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+.Winner-PokeDex {
+  color: yellowgreen;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.Loser-PokeDex {
+  color: tomato;
+  font-size: 2rem;
+  font-weight: bold;
+}
+.PokeDex-Title {
+  font-size: 2rem;
+  font-weight: bold;
+}
+.TotalExperince {
+  font-size: 1rem;
+}
